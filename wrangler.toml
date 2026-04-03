@@ -1,0 +1,7 @@
+name = "bid-engine"
+main = "src/worker.ts"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "BID_KV"
+id = "637d9b42912a4d93a244da57e55f4eb9"
